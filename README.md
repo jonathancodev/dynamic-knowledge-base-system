@@ -160,7 +160,7 @@ x-user-id: <user-id>
 - Email: `admin@system.local`
 - Role: `Admin`
 
-## 👥 User Roles
+## User Roles
 
 ### Admin
 - Full access to all resources
